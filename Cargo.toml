@@ -1,0 +1,11 @@
+[package]
+name = "hash_generator"
+version = "0.1.0"
+authors = ["Alan L <github.com/alan-lawler>"]
+edition = "2018"
+
+
+[dependencies]
+clap = "2.33.3"
+ring = "0.16.20"
+data-encoding = "2.3.2"
